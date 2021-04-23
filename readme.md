@@ -2,4 +2,4 @@ Another fun project. This time I played around in JS, creating a simple (yet eff
 Feel free to try it out.
 
 100 days of code:
-17/100 done :)
+16/100 done :)
